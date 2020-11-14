@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Zero: The Biography of a Dangerous Idea
+- Weapons of Math Destruction
+- The Color of Law
