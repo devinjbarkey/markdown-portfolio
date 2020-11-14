@@ -1,0 +1,3 @@
+- Zero: The Biography of a Dangerous Idea
+- Weapons of Math Destruction
+- The Color of Law
